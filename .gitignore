@@ -5,3 +5,4 @@
 /topic/publisher/target/*
 /topic/subscriber/target/*
 /topic/.idea/*
+/spring-boot-queue/jms-producer/target/*
