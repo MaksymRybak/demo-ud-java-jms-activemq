@@ -2,3 +2,6 @@
 *.iml
 /queue/producer/target/*
 /queue/consumer/target/*
+/topic/publisher/target/*
+/topic/subscriber/target/*
+/topic/.idea/*
