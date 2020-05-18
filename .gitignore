@@ -7,3 +7,6 @@
 /topic/.idea/*
 /spring-boot-queue/jms-producer/target/*
 /spring-boot-queue/jms-consumer/target/*
+/.idea/*
+/queue/out/*
+/spring-boot-queue/.idea/*
