@@ -30,6 +30,12 @@
             <version>${artemis.version}</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.apache.activemq</groupId>
+            <artifactId>artemis-core-client</artifactId>
+            <version>${artemis.version}</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
